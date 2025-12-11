@@ -1,0 +1,8 @@
+{
+ "name": "mod-03-utils",
+ "version": "1.0.0",
+ "type": "module",
+ "scripts": {
+    "play": "node src/playground.js"
+ }
+}
